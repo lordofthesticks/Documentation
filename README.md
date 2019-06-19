@@ -28,3 +28,6 @@ It will use google play sign in to Authenticate, also keep track of stats and ex
 [User Stories](/Docs/userstories.md)
 
 [LotS Ground Rules](/Docs/LordOfTheSticksRules.md)
+
+[Wireframes](/Docs/wireframes.md)
+
