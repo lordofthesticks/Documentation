@@ -1,3 +1,3 @@
 [User Stories](/Docs/userstories.md)
 
-[LotS Ground Rules](/Docs/LordOfTheSticksRuels.md)
+[LotS Ground Rules](/Docs/LordOfTheSticksRules.md)
