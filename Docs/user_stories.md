@@ -1,4 +1,4 @@
-*As a user I want a battle royale game that has a shallower learning curve than a first person shooter. 
+* As a user I want a battle royale game that has a shallower learning curve than a first person shooter. 
 
 * As a user I want intuitive controls for an android game. 
 
