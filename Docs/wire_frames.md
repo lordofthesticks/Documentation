@@ -4,4 +4,4 @@ Wireframe for Lord of the Sticks
 
 ![LotS wirefame png](LordOfTheSticksWireframe.png)
 
-[ReadMe](README.md)
+[ReadMe](../README.md)
