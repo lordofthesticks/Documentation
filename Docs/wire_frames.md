@@ -1,3 +1,3 @@
 Wireframe for Lord of the Sticks
 
-![LotS wirefame](Docs/LordOfTheSticksWireframe.png)
+![LotS wirefame](LordOfTheSticksWireframe.png)
