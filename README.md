@@ -1,1 +1,1 @@
-[User Stories](docs/user_stories.md)
+[User Stories](/docs/user_stories.md)
