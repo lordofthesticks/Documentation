@@ -14,4 +14,4 @@ Rule #6: Don't show up to meetings with nothing done and no communication.
 
 Rule #7: BBQ after milestones.
 
-Return to [README](README.md)
+Return to [README](../README.md)
