@@ -31,4 +31,4 @@ It will use google play sign in to Authenticate, also keep track of stats and ex
 
 [Wireframes](/Docs/wireframes.md)
 
-[Entity Relationship Diagram](/Docs/entitymodel.md)
+[Entity Relationship Diagram](/Docs/entitydiagram.md)
