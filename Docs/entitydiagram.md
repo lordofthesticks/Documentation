@@ -1,3 +1,3 @@
-[Entity Relationship Diagram](EDLotS.pdf)
+[Entity Relationship Diagram](lotsERD.pdf)
 
-![Entity Relationship Diagram](EDLotS.png)
+![Entity Relationship Diagram](lotsERD.png)
