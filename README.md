@@ -23,6 +23,8 @@ this will be an android app
 ### What external data/services will be used
 It will use google play sign in to Authenticate, also keep track of stats and experiece to produce an Algorithym to create the most possible fair match.
 
+### Firebase Connection
+Current display of Firebase interaction is in textview in the menu screen.
 
 
 [User Stories](/Docs/userstories.md)
