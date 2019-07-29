@@ -66,3 +66,5 @@ Current display of Firebase interaction is in textview in the menu screen.
 [Entity Relationship Diagram](/Docs/entitydiagram.md)
 
 [User Instructions](Docs/userinstructions.md)
+
+[Build Instructions](Docs/buildinstructions.md)
