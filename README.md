@@ -1,5 +1,5 @@
 # Summary
-   Will be an online multiplayer 10 man battle royale. The theme will be placed in a medievl setting while using silly graphics that provide a delightful amount of gore and violence using stickfigures as the playable characters. Only 4 types of weapons available for the players to slaughter each other with. Each providing a unique style and mechanic, that gives players incentive to seek out their weapon of choice. Players will come equipped with a dagger upon the beggining of each game to defend themselves as they seek out weapons. 
+   Will be an online multiplayer 10 man battle royale. The theme will be placed in a mid-evil setting while using silly graphics that provide a delightful amount of gore and violence using stickfigures as the playable characters. Only 4 types of weapons available for the players to slaughter each other with. Each providing a unique style and mechanic, that gives players incentive to seek out their weapon of choice. Players will come equipped with a dagger upon the beggining of each game to defend themselves as they seek out weapons. 
     The weapons will consist of a Long Sword , a Bow, a Fire staff, and an ice staff. Every 45 seconds the perimeter of the playable portion of the map will shrink, pushing the players toward each other, forcing players to encounter and eliminate each other until there is only one left standing.
     
 ### Team Members & Roles
@@ -32,11 +32,13 @@ This will be an android app
     * Sign in integrated through firebase to give users read/write authorization. 
     * Database is structured in 'Collections' which hold 'Documents' inside of them which can hold references to other collections. 
 * Google Multiplayer Play service to initiate a 'Room' for a creation of a game instance to then place the necessary data into Firebase.
-* TODO flush this out Brian.....!!!!!
 
 ### Current State of Completion
-* 
-* 
+* The app is running with no crashes outside of the game.
+* The gameplay is still very much a work in progress.
+   * We are only getting one stick figure in the game.
+   * Our map has had a number of issues that we eventually got working but not the way we want it to look.
+   * 
 
 ### Future Aesthetic Improvements
 * 
