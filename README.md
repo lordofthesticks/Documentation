@@ -35,18 +35,21 @@ This will be an android app
 
 ### Current State of Completion
 * The app is running with no crashes outside of the game.
+   * The settings button and shop button currently go to nowhere.
 * The gameplay is still very much a work in progress.
    * We are only getting one stick figure in the game.
    * Our map has had a number of issues that we eventually got working but not the way we want it to look.
-   * 
+   * The game itself isn't connected to firebase, only the applicaiton is.
 
 ### Future Aesthetic Improvements
-* 
-* 
+* The game map should be updated visually and functionally
+* The shop and settings screen should show something.
 
 ### Functional Stretch Goals
-* 
-* 
+* The shop screen should allow users to purchase accessories for their sticks.
+* The settings screen should allow the user to change their display name in game and on a leaderboard
+* Adding post game results screen
+* Adding player stats into the profile screen
 
 ### Test Platforms
 * Google Pixel 2 running Android Version 9, API 28
@@ -56,7 +59,8 @@ This will be an android app
 
 
 ### Firebase Connection
-Current display of Firebase interaction is in textview in the menu screen.
+* Current display of Firebase interaction is in textview in the menu screen.
+* The app sends playerID, roomID, and player email to firebase when a room is joined.
 
 
 [User Stories](/Docs/userstories.md)
