@@ -1,4 +1,4 @@
-#Lord of the Sticks Ground Rules
+# Lord of the Sticks Ground Rules
 
 Rule #1: Disagreement is decided by Nick's advice/outside opinion.
 
