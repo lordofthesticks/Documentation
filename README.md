@@ -62,7 +62,7 @@ This will be an android app
 * Current display of Firebase interaction is in textview in the menu screen.
 * The app sends playerID, roomID, and player email to firebase when a room is joined.
 
-[JavaDoc](/LordOfTheSticks/docs/api/overview-summary.html)
+[JavaDoc](https://lordofthesticks.github.io/LordOfTheSticks/docs/api/overview-summary.html)
 
 [User Stories](/Docs/userstories.md)
 
