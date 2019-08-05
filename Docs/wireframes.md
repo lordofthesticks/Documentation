@@ -1,4 +1,4 @@
-Wireframe for Lord of the Sticks
+# Wireframe for Lord of the Sticks
 
 [LotS wireframe pdf](LordOfTheSticksWireframe.pdf)
 
