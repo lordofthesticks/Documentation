@@ -72,6 +72,4 @@ This will be an android app
 
 [Entity Relationship Diagram](/Docs/entitydiagram.md)
 
-[User Instructions](Docs/userinstructions.md)
-
-[Build Instructions](Docs/buildinstructions.md)
+[User/Build Instructions](Docs/userinstructions.md)
